@@ -1,3 +1,4 @@
 # LevelDB-handbook
-.. figure:: ./image/sstable1.png
-   :alt: 
+![](./image/sstable1.png)
+![](./image/sstable2.png)
+
